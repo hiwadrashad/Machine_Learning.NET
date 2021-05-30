@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine_Learning.NET", "Machine_Learning.NET\Machine_Learning.NET.csproj", "{F18CC429-BF1B-4C6D-8E38-0EA0A0DAB4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{80C4F316-E767-4172-B347-412ACA034494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18CC429-BF1B-4C6D-8E38-0EA0A0DAB4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18CC429-BF1B-4C6D-8E38-0EA0A0DAB4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18CC429-BF1B-4C6D-8E38-0EA0A0DAB4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18CC429-BF1B-4C6D-8E38-0EA0A0DAB4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C4F316-E767-4172-B347-412ACA034494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C4F316-E767-4172-B347-412ACA034494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C4F316-E767-4172-B347-412ACA034494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C4F316-E767-4172-B347-412ACA034494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA44D61-02E8-4ECB-A8A8-AE442BF9E857}
+	EndGlobalSection
+EndGlobal
